@@ -1,6 +1,6 @@
 # Module 2: Streaming Text with Server-Sent Events (SSE)
 
-This module extends the [Module 1 chatbot](../module-1/) with real-time text streaming using Server-Sent Events (SSE), as covered in Lecture 2.
+This module extends the [Module 1 chatbot](https://github.com/AI-Systems-Infrastructure/module-1) with real-time text streaming using Server-Sent Events (SSE), as covered in Lecture 2.
 
 ## What's New
 
